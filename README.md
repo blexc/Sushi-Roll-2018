@@ -14,10 +14,10 @@ Q: What things inspired/ helped you to make this?
 A: Super Monkey Ball is how the game's concept came about. Shaun Spalding, a youtuber who makes GameMaker/ game development tutorials is 'the' reason I was able to create this game. I cannot thank him enough.  
 
 Q: Where is the code?  
-There are some in the 'scripts' folder, but most of the code is in 'objects'. All .gml files were written by me. Ignore the .yy files.  
-
-Q: How can I load this on GM2?
-As soon as you open GM2, go to 'open', and choose 'Sushi Roll! by Ludum Fabri.yyp'. 
+A: There are some in the 'scripts' folder, but most of the code is in 'objects'. All .gml files were written by me. Ignore the .yy files.   
+  
+Q: How can I load this on GM2?  
+A: As soon as you open GM2, go to 'open', and choose 'Sushi Roll! by Ludum Fabri.yyp'.   
 
 Controls in-menu:  
  - Up and down arrow keys to move selection.  

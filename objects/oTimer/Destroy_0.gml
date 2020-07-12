@@ -1,0 +1,1 @@
+global.thetime = seconds;

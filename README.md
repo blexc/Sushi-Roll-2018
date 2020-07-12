@@ -11,7 +11,7 @@ Q: What challenges came about when creating this?
 A: This was the first game I had ever made. I had very little programming experience, and had never used Game Maker 2 or GameMakerLanguage (GML) before.  
   
 Q: What things inspired/ helped you to make this?  
-A: Super Monkey Ball is how the game's concept came about. Shaun Spalding, a youtuber who makes GameMaker/ game development tutorials is 'the' reason I was able to create this game. I cannot thank him enough.  
+A: Super Monkey Ball is how the game's concept came about. Shaun Spalding, a youtuber who makes GameMaker/ game development tutorials is 'the' reason I was able to create this game.
 
 Q: Where is the code?  
 A: There are some in the 'scripts' folder, but most of the code is in 'objects'. All .gml files were written by me. Ignore the .yy files.   

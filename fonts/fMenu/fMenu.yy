@@ -1,14 +1,16 @@
 {
     "id": "380ee756-bb28-4e8d-a06c-1b1e95a3bae1",
     "modelName": "GMFont",
-    "mvc": "1.0",
+    "mvc": "1.1",
     "name": "fMenu",
     "AntiAlias": 1,
     "TTFName": "",
+    "ascenderOffset": 0,
     "bold": true,
     "charset": 0,
     "first": 0,
     "fontName": "Oswald",
+    "glyphOperations": 0,
     "glyphs": [
         {
             "Key": 32,
@@ -1436,13 +1438,16 @@
             }
         }
     ],
-    "image": null,
+    "hinting": 0,
     "includeTTF": false,
+    "interpreter": 0,
     "italic": false,
     "kerningPairs": [
         
     ],
     "last": 0,
+    "maintainGms1Font": false,
+    "pointRounding": 0,
     "ranges": [
         {
             "x": 32,
